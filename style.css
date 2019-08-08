@@ -233,7 +233,7 @@ p {
 
 .section-heading > h2 {
   font-weight: 300;
-  color: #2b2a68;
+  color: #555556;
   font-size: 48px;
   margin: 0;
 }
@@ -419,6 +419,7 @@ p {
 -------------------------- */
 
 .wellcome_area {
+  background: #fff;
   background-image: url(img/bg-img/welcome-bg.png);
   height: 900px;
   position: relative;
@@ -547,7 +548,7 @@ p {
 
 .single-special > h4 {
   font-size: 22px;
-  color: #2b2a68;
+  color: #555556;
 }
 
 .single-icon {
@@ -556,7 +557,7 @@ p {
 
 .single-special > h4 {
   font-size: 22px;
-  color: #2b2a68;
+  color: #555556;
   margin-bottom: 15px;
 }
 
@@ -571,7 +572,7 @@ p {
 }
 
 .special_description_content > h2 {
-  color: #2b2a68;
+  color: #555556;
   font-size: 48px;
   margin-bottom: 30px;
 }
@@ -675,7 +676,7 @@ p {
 
 .single-feature > h5 {
   font-size: 22px;
-  color: #2b2a68;
+  color: #555556;
 }
 
 .single-feature > p {
@@ -853,7 +854,7 @@ p {
 }
 
 .single-price-plan .package-plan > h5 {
-  color: #2b2a68;
+  color: #555556;
   font-size: 18px;
 }
 
@@ -913,7 +914,7 @@ p {
 -------------------------- */
 
 .clients-feedback-area .client-name > h5 {
-  color: #2b2a68;
+  color: #555556;
   font-size: 22px;
   margin-top: 5px;
 }
@@ -1056,7 +1057,7 @@ p {
 }
 
 .get-started-button > a:hover {
-  background: #2b2a68;
+  background: #555556;
   color: #fff;
   -webkit-transition-duration: 500ms;
   -o-transition-duration: 500ms;
@@ -1084,7 +1085,7 @@ p {
 
 .member-text > h4 {
   font-size: 22px;
-  color: #2b2a68;
+  color: #555556;
 }
 
 .member-text > p {
@@ -1161,7 +1162,7 @@ p {
 .address-text > p > span,
 .phone-text > p > span,
 .email-text > p > span {
-  color: #2b2a68;
+  color: #555556;
 }
 
 .footer-contact-area .line-shape {
@@ -1202,7 +1203,7 @@ p {
 }
 
 .btn.submit-btn:hover {
-  background: #2b2a68;
+  background: #555556;
   color: #fff;
   -webkit-transition-duration: 500ms;
   -o-transition-duration: 500ms;
@@ -1222,7 +1223,7 @@ p {
 -------------------------- */
 
 .footer-text > h2 {
-  color: #2b2a68;
+  color: #555556;
   font-size: 72px;
   font-weight: 700;
 }
@@ -1284,4 +1285,13 @@ p {
 
 .copyright-text > p {
   margin-bottom: 0;
+}
+
+/* Add */
+.app-download-btn a {
+  background: #fff;
+}
+.app-download-btn.active a,
+.app-download-btn a:hover {
+  background-color: #adebe4;
 }
