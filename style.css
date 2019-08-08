@@ -1286,3 +1286,12 @@ p {
 .copyright-text > p {
   margin-bottom: 0;
 }
+
+/* Add */
+.app-download-btn a {
+  background: #fff;
+}
+.app-download-btn.active a,
+.app-download-btn a:hover {
+  background-color: #adebe4;
+}
