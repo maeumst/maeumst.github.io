@@ -45,7 +45,8 @@
 }
 
 body {
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Cabin', 'Apple SD Gothic Neo', NanumBarunGothic, '나눔바른고딕', Malgun Gothic,
+    '맑은 고딕', dotum, sans-serif;
   background-color: #fff;
 }
 
@@ -55,7 +56,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Cabin', 'Apple SD Gothic Neo', NanumBarunGothic, '나눔바른고딕', Malgun Gothic,
+    '맑은 고딕', dotum, sans-serif;
   font-weight: 400;
   color: #000;
   line-height: 1.2;
