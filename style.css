@@ -1295,3 +1295,21 @@ p {
 .app-download-btn a:hover {
   background-color: #adebe4;
 }
+.wellcome-heading > h3 {
+  overflow: hidden;
+  max-width: 100%;
+}
+.our-monthly-membership,
+.cool_facts_area {
+  background: linear-gradient(to left, #6bd1c5, #adebe4);
+}
+a {
+  color: #6bd1c5;
+}
+.clients-feedback-area .client > i {
+  color: #6bd1c5;
+}
+
+/*
+메인컬러 6bd1c5 / 엑센트컬러 adebe4 / 타이틀컬러 555556 / 메인텍스트컬러 444747
+*/
